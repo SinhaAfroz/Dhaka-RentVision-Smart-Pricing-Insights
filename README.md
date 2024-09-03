@@ -8,8 +8,13 @@ Steps:
   5. Model Evaluation:
 # Dataset
 The dataset used for this project includes features like:
-Location: Geographical area of the property.
-Area: Total area in square feet.
-Bed: Number of bedrooms in the house.
+
+Location: Geographical area of the property
+
+Area: Total area in square feet
+
+Bed: Number of bedrooms in the house
+
 Bath: Number of bathrooms
+
 Price: price of house rent in taka
