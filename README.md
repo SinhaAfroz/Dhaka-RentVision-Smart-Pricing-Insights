@@ -7,8 +7,6 @@ Steps:
   4. Modeling
   5. Model Evaluation:
 # Dataset
-The dataset used for this project includes features like:
-
 Location: Geographical area of the property
 
 Area: Total area in square feet
