@@ -1,4 +1,4 @@
-# House-Rent-Prediction
+# Dhaka RentVision: Smart Pricing Insights
 This project predicts house rent prices based on features: location, area(size), number of bedrooms, number of bathrooms, Price
 Steps:
   1. Data Cleaning
